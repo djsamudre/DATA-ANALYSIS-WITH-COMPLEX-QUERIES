@@ -88,3 +88,11 @@ List of repeat customers.
 Average order value per customer.
 By implementing advanced SQL techniques, businesses can effectively track performance, optimize marketing efforts, and improve customer retention. The insights gained from these queries allow for data-driven decision-making and better resource allocation.
 
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/deeac757-583e-4991-9743-c7c7d5eb42a4)
+![Image](https://github.com/user-attachments/assets/22ff1deb-76fe-4a6a-87f0-5773ccf976a8)
+![Image](https://github.com/user-attachments/assets/e32c55ff-dbed-46dd-8e7f-fd10dbf3d8e3)
+![Image](https://github.com/user-attachments/assets/4a19fbf2-071c-4115-b707-f9b5f78e65e7)
+![Image](https://github.com/user-attachments/assets/632538aa-cff8-4aa8-b6d9-2a400234c0c2)
+
